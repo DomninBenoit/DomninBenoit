@@ -1,4 +1,4 @@
-<img src="./4880393.jpg" min-width="340px" max-width="400px" width="340px" align="right" alt="Computer">
+<img src="./pngegg.png" min-width="340px" max-width="400px" width="340px" align="right" alt="Computer">
 
 <p align="left"> 
 I'm <strong>Domnin</strong>,
