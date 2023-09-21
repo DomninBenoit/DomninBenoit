@@ -1,4 +1,4 @@
-<img src="https://www.freepik.com/free-vector/flat-design-cms-illustration_12212555.htm#page=3&query=computer%20illustration&position=31&from_view=keyword&track=ais" min-width="340px" max-width="400px" width="340px" align="right" alt="Computador">
+<img src="./4880393.jpg" min-width="340px" max-width="400px" width="340px" align="right" alt="Computer">
 
 <p align="left"> 
 I'm <strong>Domnin</strong>,
